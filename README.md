@@ -1,4 +1,4 @@
- ![Profile_Banner_with_text_cutted_top](https://github.com/user-attachments/assets/cd5207c8-b433-4ff7-859d-05cd224a0310.jpg)
+ ![Background](https://github.com/user-attachments/assets/cd5207c8-b433-4ff7-859d-05cd224a0310.jpg)
 
 
 

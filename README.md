@@ -57,7 +57,8 @@
 ---
 
 
-![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
+
+![ftimg](https://github.com/user-attachments/assets/9635bd41-ce90-488e-b02d-3e15eb127c80)
 
 ------
 [Daenges](https://github.com/Daenges)

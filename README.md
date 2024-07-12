@@ -1,6 +1,5 @@
- ![Background](https://github.com/user-attachments/assets/cd5207c8-b433-4ff7-859d-05cd224a0310.jpg)
-
-
+ ![Profile_Banner_with_text_cutted_top](https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png)
+![background](https://github.com/user-attachments/assets/15433482-cfda-42ad-91cb-934bde053b60)
 
 <details align="middle">
 <summary>Open profile</summary>

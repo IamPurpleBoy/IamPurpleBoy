@@ -8,7 +8,7 @@
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Languages:</h3>
 <p align="center"> 
-<a href="https://www.w3shools.com/java/" target="_blank">
+<a href="https://www.w3schools.com/java/" target="_blank">
   <img src="https://github.com/user-attachments/assets/22d5f469-9395-405b-9a1d-59975a8172ef" alt="java" width="40" height="40"/> 
 </a>
 

@@ -9,11 +9,40 @@
 
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Languages:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> 
+<a href="https://www.w3shools.com/java/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/22d5f469-9395-405b-9a1d-59975a8172ef" alt="java" width="40" height="40"/> 
+</a>
+
+<a href="https://www.w3shools.com/python/" target="_blank"> 
+  <img src="https://github.com/user-attachments/assets/4a1367cb-e8da-405e-b936-5a434056e8a2" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/php/)" target="_blank"> 
+  <img src="https://github.com/user-attachments/assets/7d573cab-5ed3-49eb-b002-16f4cecf85bc" alt="php" width="40" height="40"/>  
+</a>
+<a href="https://www.w3schools.com/js/" target="_blank"> 
+  <img src="https://github.com/user-attachments/assets/6a3796a6-d771-4ffc-8f1e-fc8050902018" alt="javascript" width="40" height="40"/> 
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <img src="https://github.com/user-attachments/assets/f50f26b7-9399-4b83-8aad-46b992399eb0" alt="cplusplus" width="40" height="40"/> 
+</a> 
+
+</p>
+
 
 [comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Hobby Projects:</h3>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
+<h3 align="center"><b>Frameworks:</h3>
+<p align="center"> 
+  <a href="https://angular.dev/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/bfdaa4fb-5ff5-4cf9-a0ec-ef71b80a8365" alt="Angular" width="45" height="45"/> 
+  </a>
+  <a href="https://manjaro.org/" target="_blank"> 
+    <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> 
+    <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> 
+  </a>
 
 <br />
 <br />
@@ -24,15 +53,13 @@
 <details>
 
 [comment]: <> (Most used languages)
-<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
+
 
 [comment]: <> (Github statistics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+
 
 [comment]: <> (Commit graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daenges&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=true&hide_border=false)](https://github.com/Daenges)
+
 </details>
 
 
@@ -40,16 +67,13 @@
 
 [comment]: <> (Extend trophies)
 <details>
-<summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges" /></a> </p>
+
 </details>
 
 ---
 
 <details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-<br />
-<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+
 </details>
 
 </details>
@@ -57,8 +81,8 @@
 ---
 
 
+![ftimg2](https://github.com/user-attachments/assets/7fbe154a-74cb-45c5-9cc4-9859689ecb8f)
 
-![ftimg](https://github.com/user-attachments/assets/9635bd41-ce90-488e-b02d-3e15eb127c80)
 
 ------
 [IamPurpleBoy](https://github.com/IamPurpleBoy)

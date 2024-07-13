@@ -3,8 +3,6 @@
 <details align="middle">
 <summary>Open profile</summary>
 
-
-
 <br />
 
 [comment]: <> (Links to programming languages)
@@ -17,32 +15,47 @@
 <a href="https://www.w3shools.com/python/" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/4a1367cb-e8da-405e-b936-5a434056e8a2" alt="python" width="40" height="40"/> 
 </a>
-<a href="https://www.w3schools.com/php/)" target="_blank"> 
+<a href="https://www.w3schools.com/php/" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/7d573cab-5ed3-49eb-b002-16f4cecf85bc" alt="php" width="40" height="40"/>  
 </a>
 <a href="https://www.w3schools.com/js/" target="_blank"> 
-  <img src="https://github.com/user-attachments/assets/6a3796a6-d771-4ffc-8f1e-fc8050902018" alt="javascript" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/6a3796a6-d771-4ffc-8f1e-fc8050902018" alt="javascript" width="35" height="35"/> 
 </a>
-
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/f50f26b7-9399-4b83-8aad-46b992399eb0" alt="cplusplus" width="40" height="40"/> 
 </a> 
-
 </p>
 
 
-[comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Frameworks:</h3>
+[comment]: <> (Links to related Frameworks)
+<h3 align="center"><b>Frameworks & CMS </h3>
 <p align="center"> 
   <a href="https://angular.dev/" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/bfdaa4fb-5ff5-4cf9-a0ec-ef71b80a8365" alt="Angular" width="45" height="45"/> 
+    <img src="https://github.com/user-attachments/assets/bfdaa4fb-5ff5-4cf9-a0ec-ef71b80a8365" alt="Angular" width="40" height="40"/> 
   </a>
-  <a href="https://manjaro.org/" target="_blank"> 
-    <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/c69fd106-2355-47c6-beba-03885eacd80d" alt="Django" width="45" height="45"/> 
   </a> 
-  <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> 
-    <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> 
+  <a href="https://developer.android.com/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/c21b71e9-3a85-42cb-affd-450ce5f107f2" alt="Android Studio" width="70" height="55"/> 
   </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/6e6d20a0-0555-40b8-ba0d-6f0900f6fe0e" alt="Android Studio" width="70" height="55"/> 
+  </a>
+
+  <br>
+  <a href="https://wordpress.com/es/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/f9c25ccf-903d-40b5-a5dd-1a1b78cb2fa4" alt="WordPress" width="45" height="45"/> 
+  </a>
+  <a href="https://www.joomla.org/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/dbdb9559-63ca-44da-ae56-cf898d5bb220" alt="Joomla" width="45" height="45"/> 
+  </a>
+
+
+
+
+  
+
 
 <br />
 <br />

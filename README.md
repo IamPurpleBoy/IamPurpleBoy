@@ -3,9 +3,11 @@
 <details align="middle">
 <summary>Open profile</summary>
 
-<br />
+<br />  
+<h2>Desarrollo Web y Aplicaciones Digitales</h2>
 
-[comment]: <> (Links to programming languages)
+<details>
+
 <h3 align="center"><b>Languages  & CMS </h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/java/" target="_blank">
@@ -33,7 +35,6 @@
   </a>
 </p>
 
-
 [comment]: <> (Links to related Frameworks)
 <h3 align="center"><b>Frameworks</h3>
 <p align="center"> 
@@ -49,33 +50,23 @@
   <a href="https://www.arduino.cc/en/software" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/6e6d20a0-0555-40b8-ba0d-6f0900f6fe0e" alt="Arduino IDE" width="50" height="50"/> 
   </a>
-
-
-
-
-
-
-  
-
-
+</p>
 <br />
 <br />
-
----
+</details>
+<h2>Innovación con Tecnologías 4.0</h2>
 
 [comment]: <> (Extend Catistics)
 <details>
-
-[comment]: <> (Most used languages)
-
-
-[comment]: <> (Github statistics)
-
-
-[comment]: <> (Commit graph)
-
+<p align="center"> 
+  <a href="https://www.arduino.cc/en/software" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/6e6d20a0-0555-40b8-ba0d-6f0900f6fe0e" alt="Arduino IDE" width="50" height="50"/> 
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/6e6d20a0-0555-40b8-ba0d-6f0900f6fe0e" alt="Arduino IDE" width="50" height="50"/> 
+  </a>
+</p>
 </details>
-
 
 ---
 

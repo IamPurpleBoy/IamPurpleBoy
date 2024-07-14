@@ -2,18 +2,15 @@
 
 <details align="middle">
 <summary>Open profile</summary>
-
 <br />  
+
 <h2>Desarrollo Web y Aplicaciones Digitales</h2>
-
 <details>
-
 <h3 align="center"><b>Languages  & CMS </h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/java/" target="_blank">
   <img src="https://github.com/user-attachments/assets/22d5f469-9395-405b-9a1d-59975a8172ef" alt="java" width="40" height="40"/> 
 </a>
-
 <a href="https://www.w3shools.com/python/" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/4a1367cb-e8da-405e-b936-5a434056e8a2" alt="python" width="40" height="40"/> 
 </a>
@@ -35,27 +32,35 @@
   </a>
 </p>
 
-[comment]: <> (Links to related Frameworks)
-<h3 align="center"><b>Frameworks</h3>
+<h3 align="center"><b>Frameworks & SGBD</h3>
 <p align="center"> 
   <a href="https://angular.dev/" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/bfdaa4fb-5ff5-4cf9-a0ec-ef71b80a8365" alt="Angular" width="40" height="40"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/c69fd106-2355-47c6-beba-03885eacd80d" alt="Django" width="45" height="45"/> 
-  </a> 
+  </a>
+    <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/98022756-21d0-4a5a-af0b-8f0c2ba13c44" alt="Bootstrap" width="50" height="45"/> 
+  </a>
   <a href="https://developer.android.com/" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/c21b71e9-3a85-42cb-affd-450ce5f107f2" alt="Android Studio" width="70" height="50"/> 
   </a>
-  <a href="https://www.arduino.cc/en/software" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/6e6d20a0-0555-40b8-ba0d-6f0900f6fe0e" alt="Arduino IDE" width="50" height="50"/> 
+  <br>
+   <a href="https://www.apachefriends.org/es/index.html" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/7230ac8f-480e-423d-923b-07bec1c47fc2" alt="XAMPP" width="40" height="40"/> 
   </a>
+
+   <a href="https://www.mongodb.com/es" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/11147099-718a-489a-a5f1-a91da9f07979" alt="MongoDB" width="75" height="40"/> 
+  </a>
+
 </p>
-<br />
 <br />
 </details>
 <h2>Innovación con Tecnologías 4.0</h2>
 
+[comment]: <> (Extend Catistics)
 [comment]: <> (Extend Catistics)
 <details>
 <p align="center"> 
@@ -67,17 +72,6 @@
   </a>
 </p>
 </details>
-
----
-
-[comment]: <> (Extend trophies)
-<details>
-
-</details>
-
----
-
-<details>
 
 </details>
 
